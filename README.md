@@ -7,17 +7,14 @@
 <img width="600" height="350" alt="5f620017-f65c-4200-89d8-73d3a9b9231e-ezgif com-speed" src="https://github.com/user-attachments/assets/259d11e8-6591-439e-bcfe-3664f3718792" />
 </p>
 
-
-
-
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=32&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Hi,+I'm+Diana+⸜(｡˃+ᵕ+˂+)⸝♡;Aspiring+Project+Manager;UI%2FUX+Design+Learner;Information+Systems+Student;Learning+today,+leading+tomorrow."/>
 </p>
 
-<!--<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yanaaastv&label=Profile%20Views&color=B57EDC&style=for-the-badge"/>
-</p>-->
+
+<p align="center">
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+</p>
 
 <h2 align="center">⋆˚✿˖° About Me °˖✿˚⋆</h2>
 
