@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=250&section=header&text=Diana%20Teves&fontSize=55&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<h1 align="center">⋆౨ৎ˚⟡˖ ࣪ Hi, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡ ⋆౨ৎ˚⟡˖ ࣪</h1>
+<h1 align="center">Hi, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=24&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Aspiring+Project+Manager+📋;UI%2FUX+Design+Learner+🎨;Information+Systems+Student+💻;Designing+with+Purpose+and+Creativity+✨"/>
@@ -13,13 +13,9 @@
 <img src="https://komarev.com/ghpvc/?username=yanaaastv&label=Profile%20Views&color=B57EDC&style=for-the-badge"/>
 </p>
 
-<p align="center">
-⊹ ࣪ ˖ ────────── ♡ ────────── ˖ ࣪ ⊹
-</p>
-
 <h2 align="center">⋆˚✿˖° About Me °˖✿˚⋆</h2>
 
-<p align="center">
+<p>
 🎓 Associate in Computer Technology Graduate — Class of 2026 <br>
 🌟 Continuing to grow in the field of Information Systems <br>
 🎨 Learning UI/UX Design through Figma <br>
@@ -28,10 +24,6 @@
 🚀 Led and contributed to academic and organizational projects <br>
 🌱 Continuously learning new technologies and design principles <br>
 ✨ Building meaningful digital experiences one project at a time
-</p>
-
-<p align="center">
-⊹ ࣪ ˖ ────────── ♡ ────────── ˖ ࣪ ⊹
 </p>
 
 <h2 align="center">ଘ('•×•)⊃━☆ Connect With Me</h2>
@@ -50,28 +42,16 @@
 </a>
 </p>
 
-<p align="center">
-⊹ ࣪ ˖ ────────── ♡ ────────── ˖ ࣪ ⊹
-</p>
-
 <h2 align="center">(⁰▿⁰)◜✧˖° Languages & Tools</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,bootstrap,figma,git,github,laravel"/>
 </p>
 
-<p align="center">
-⊹ ࣪ ˖ ────────── ♡ ────────── ˖ ࣪ ⊹
-</p>
-
 <h2 align="center">(❀´ ˘ `❀) GitHub Trophies</h2>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yanaaastv&theme=discord&column=4&margin-w=15&margin-h=15"/>
-</p>
-
-<p align="center">
-⊹ ࣪ ˖ ────────── ♡ ────────── ˖ ࣪ ⊹
 </p>
 
 <h2 align="center">⋆｡𖦹°⭒ GitHub Stats</h2>
@@ -82,18 +62,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanaaastv&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
-<p align="center">
-⊹ ࣪ ˖ ────────── ♡ ────────── ˖ ࣪ ⊹
-</p>
-
 <h2 align="center">૮₍´˶• . • ⑅ ₎ა GitHub Streak</h2>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanaaastv&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-⊹ ࣪ ˖ ────────── ♡ ────────── ˖ ࣪ ⊹
 </p>
 
 <h2 align="center">✩°｡⋆⸜(˙꒳​˙ ) Currently Learning</h2>
@@ -104,10 +76,6 @@
 ⚡ Laravel Framework <br>
 🗄️ Database Design <br>
 📱 User-Centered Design
-</p>
-
-<p align="center">
-⊹ ࣪ ˖ ────────── ♡ ────────── ˖ ࣪ ⊹
 </p>
 
 <h2 align="center">‧₊˚🖇️✩ Music Corner ₊˚🎧⊹♡</h2>
