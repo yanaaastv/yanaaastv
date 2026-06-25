@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=250&section=header&text=Diana%20Teves&fontSize=55&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=24&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Hi,+I'm+Diana+⸜(｡˃+ᵕ+˂+)⸝♡;Aspiring+Project+Manager;UI%2FUX+Design+Learner;Information+Systems+Student;Designing+with+Purpose+and+Creativity"/>
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=900&size=32&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Hi,+I'm+Diana+⸜(｡˃+ᵕ+˂+)⸝♡;Aspiring+Project+Manager;UI%2FUX+Design+Learner;Information+Systems+Student;Designing+with+Purpose+and+Creativity"/>
+</p>
 
 <!--<p align="center">
 <img src="https://komarev.com/ghpvc/?username=yanaaastv&label=Profile%20Views&color=B57EDC&style=for-the-badge"/>
