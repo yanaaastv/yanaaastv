@@ -4,12 +4,8 @@
 </p>
 
 <h1 align="center">
-Hi 👋, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡
+Hi, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡
 </h1>
-
-<h3 align="center">
-💜 Aspiring Project Manager & UI/UX Design Learner 💜
-</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Aspiring+Project+Manager+%F0%9F%92%BC;UI%2FUX+Design+Learner+%F0%9F%8E%A8;IT+Student+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Designing+with+Purpose+and+Creativity+%E2%9C%A8" />
@@ -21,9 +17,11 @@ Hi 👋, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡
 
 ---
 
-### 🌸 About Me
+### ⋆˚✿˖° About Me
 
-💜 IT Student
+🎓 Graduate of Associate in Computer Technology (2026)
+
+🌟 Continuing to grow in the field of Information Systems
 
 🎨 Learning UI/UX Design through Figma
 
@@ -35,7 +33,7 @@ Hi 👋, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡
 
 ---
 
-### 🌐 Connect With Me
+### ଘ('•×•)⊃━☆ Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/in/diana-teves-8b5667369">
@@ -53,7 +51,7 @@ Hi 👋, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡
 
 ---
 
-### 💻 Languages & Tools
+### (⁰▿⁰)◜✧˖°. Languages & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,figma,git" />
@@ -61,7 +59,7 @@ Hi 👋, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning ✩°｡⋆⸜(˙꒳​˙ )
 
 ```text
 📋 Project Management
