@@ -93,6 +93,14 @@
 📱 User-Centered Design
 </p>
 
+<h2 align="center">⋆˚࿔ SKLs 𝜗𝜚˚⋆ </h2>
+
+<p align="center">
+♡ Matcha and coffee are my comfort drinks <br>
+🎧 Music keeps me motivated while studying and designing <br>
+✩ I enjoy reading during my free time <br>
+</p>
+
 <h2 align="center">‧₊˚🖇️✩ Music Corner ₊˚🎧⊹♡</h2>
 
 <p align="center">
@@ -106,7 +114,7 @@
 </p>
 
 <p align="center">
-♫⋆｡♪ ₊˚♬ ﾟ.
+▶︎ •၊||၊|။||||။‌‌‌၊|• 1:10
 </p>
 
 <p align="center">
