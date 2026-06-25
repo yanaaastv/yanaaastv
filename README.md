@@ -4,8 +4,11 @@
 </p>
 
 <p align="center">
-<img width="400" height="200" alt="White Minimalist Real Estate Agency Email Signature" src="https://github.com/user-attachments/assets/62e66996-dca7-4113-b0a9-58d01c09bb35" />
+<img width="800" height="450" alt="5f620017-f65c-4200-89d8-73d3a9b9231e-ezgif com-speed" src="https://github.com/user-attachments/assets/259d11e8-6591-439e-bcfe-3664f3718792" />
 </p>
+
+
+
 
 
 <p align="center">
@@ -28,6 +31,10 @@
 </p>
 
 <h2 align="center">ଘ('•×•)⊃━☆ Connect With Me</h2>
+
+<p align="center">
+<img width="400" height="200" alt="White Minimalist Real Estate Agency Email Signature" src="https://github.com/user-attachments/assets/62e66996-dca7-4113-b0a9-58d01c09bb35" />
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/diana-teves-8b5667369">
