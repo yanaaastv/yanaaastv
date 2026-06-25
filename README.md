@@ -1,7 +1,12 @@
 <!-- Purple Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=250&section=header&text=Diana%20Teves&fontSize=55&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=100&section=header&animation=twinkling"/>
 </p>
+
+<p align="center">
+<img width="400" height="200" alt="White Minimalist Real Estate Agency Email Signature" src="https://github.com/user-attachments/assets/4b2197f5-1e8e-4670-b3a1-3a6c30268c24" />
+</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=32&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Hi,+I'm+Diana+⸜(｡˃+ᵕ+˂+)⸝♡;Aspiring+Project+Manager;UI%2FUX+Design+Learner;Information+Systems+Student;Learning+today,+leading+tomorrow."/>
