@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=900&size=32&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Hi,+I'm+Diana+⸜(｡˃+ᵕ+˂+)⸝♡;Aspiring+Project+Manager;UI%2FUX+Design+Learner;Information+Systems+Student;Designing+with+Purpose+and+Creativity"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=32&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Hi,+I'm+Diana+⸜(｡˃+ᵕ+˂+)⸝♡;Aspiring+Project+Manager;UI%2FUX+Design+Learner;Information+Systems+Student;Turning+ideas+into+reality+through+planning+creativity+and+continuous+learning."/>
 </p>
 
 <!--<p align="center">
