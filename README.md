@@ -12,7 +12,7 @@
 </p>
 
 
-<p align="center" type=waving&color=B57EDC>
+<p align="center">
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 </p>
 
