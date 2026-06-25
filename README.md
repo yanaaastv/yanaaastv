@@ -16,14 +16,12 @@
 <h2 align="center">⋆˚✿˖° About Me °˖✿˚⋆</h2>
 
 <p>
-🎓 Associate in Computer Technology Graduate — Class of 2026 <br>
+🎓 Graduate of Associate in Computer Technology (2026) <br>
 🌟 Continuing to grow in the field of Information Systems <br>
 🎨 Learning UI/UX Design through Figma <br>
-📋 Aspiring Project Manager passionate about planning and collaboration <br>
-💻 Building projects with Java, PHP, Laravel, MySQL, HTML, CSS, and JavaScript <br>
-🚀 Led and contributed to academic and organizational projects <br>
-🌱 Continuously learning new technologies and design principles <br>
-✨ Building meaningful digital experiences one project at a time
+📋 Aspiring Project Manager <br>
+💻 Knowledgeable in Java, PHP, Laravel, MySQL, HTML, CSS, and JavaScript <br>
+✨ Building my portfolio one project at a time
 </p>
 
 <h2 align="center">ଘ('•×•)⊃━☆ Connect With Me</h2>
@@ -70,7 +68,7 @@
 
 <h2 align="center">✩°｡⋆⸜(˙꒳​˙ ) Currently Learning</h2>
 
-<p align="center">
+<p>
 📋 Project Management <br>
 🎨 UI/UX Design <br>
 ⚡ Laravel Framework <br>
@@ -81,7 +79,7 @@
 <h2 align="center">‧₊˚🖇️✩ Music Corner ₊˚🎧⊹♡</h2>
 
 <p align="center">
-💜 Coding • Designing • Studying with good music 💜
+ Coding • Designing • Studying with good music 
 </p>
 
 <p align="center">
