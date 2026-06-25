@@ -52,8 +52,6 @@
 
 <h2 align="center">(⁰▿⁰)◜✧˖° Languages & Tools</h2>
 
-<h2 align="center">(⁰▿⁰)◜✧˖° Languages & Tools</h2>
-
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-B57EDC?style=for-the-badge">
 <img src="https://img.shields.io/badge/CSS-B57EDC?style=for-the-badge">
