@@ -9,9 +9,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=24&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Aspiring+Project+Manager;UI%2FUX+Design+Learner;Information+Systems+Student;Designing+with+Purpose+and+Creativity"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
 <img src="https://komarev.com/ghpvc/?username=yanaaastv&label=Profile%20Views&color=B57EDC&style=for-the-badge"/>
-</p>
+</p>-->
 
 <h2 align="center">⋆˚✿˖° About Me °˖✿˚⋆</h2>
 
@@ -43,7 +43,7 @@
 <h2 align="center">(⁰▿⁰)◜✧˖° Languages & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,bootstrap,figma,git,github,laravel"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,git,github,laravel"/>
 </p>
 
 <h2 align="center">(❀´ ˘ `❀) GitHub Trophies</h2>
