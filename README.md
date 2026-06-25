@@ -101,6 +101,6 @@ Coding • Designing • Studying with good music
 <p align="center">
 <a href="https://open.spotify.com/user/yanaaa">
 <img src="https://img.shields.io/badge/Listen%20with%20Me%20on%20Spotify-9370DB?style=for-the-badge&logo=spotify&logoColor=white"/>
-  ▶︎ •၊||၊|။||||။‌‌‌၊|• 1:10
 </a>
+   ▶︎ •၊||၊|။||||။‌‌‌၊|• 1:10
 </p>
