@@ -1,10 +1,10 @@
 <!-- Purple Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=100&section=header&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=150&section=header&animation=twinkling"/>
 </p>
 
 <p align="center">
-<img width="400" height="200" alt="White Minimalist Real Estate Agency Email Signature" src="https://github.com/user-attachments/assets/4b2197f5-1e8e-4670-b3a1-3a6c30268c24" />
+<img width="700" height="300" alt="White Minimalist Real Estate Agency Email Signature" src="https://github.com/user-attachments/assets/4b2197f5-1e8e-4670-b3a1-3a6c30268c24" />
 </p>
 
 
@@ -96,5 +96,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=footer"/>
 </p>
