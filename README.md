@@ -8,7 +8,7 @@ Hi, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Aspiring+Project+Manager+%F0%9F%92%BC;UI%2FUX+Design+Learner+%F0%9F%8E%A8;IT+Student+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Designing+with+Purpose+and+Creativity+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Aspiring+Project+Manager;UI%2FUX+Design+Learner;IS+Student+from+the+Philippines;Designing+with+Purpose+and+Creativity" />
 </p>
 
 <p align="center">
@@ -58,12 +58,49 @@ Hi, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡
 </p>
 
 ---
+## (❀´ ˘ `❀) GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yanaaastv&theme=discord&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## ⋆｡𖦹°⭒ GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanaaastv&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanaaastv&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
+
+---
+
+## ૮₍´˶• . • ⑅ ₎ა GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yanaaastv&theme=midnight-purple&hide_border=true"/>
+</p>
+
+---
 
 ### Currently Learning ✩°｡⋆⸜(˙꒳​˙ )
 
-```text
 📋 Project Management
 🎨 UI/UX Design
 ⚡ Laravel Framework
 🗄️ Database Design
 📱 User-Centered Design
+
+## ‧₊˚🖇️✩ Music Corner ₊˚🎧⊹♡ 
+
+<p align="center">
+Coding • Designing • Studying with good music 
+</p>
+
+<p align="center">
+<a href="https://open.spotify.com/user/yanaaa">
+<img src="https://img.shields.io/badge/Listen%20with%20Me%20on%20Spotify-9370DB?style=for-the-badge&logo=spotify&logoColor=white"/>
+  ▶︎ •၊||၊|။||||။‌‌‌၊|• 1:10
+</a>
+</p>
