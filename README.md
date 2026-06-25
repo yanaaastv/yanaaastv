@@ -41,7 +41,7 @@
 <h2 align="center">(⁰▿⁰)◜✧˖° Languages & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,git,github,laravel"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,git,github"/>
 </p>
 
 <h2 align="center">(❀´ ˘ `❀) GitHub Trophies</h2>
