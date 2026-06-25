@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img width="700" height="300" alt="White Minimalist Real Estate Agency Email Signature" src="https://github.com/user-attachments/assets/4b2197f5-1e8e-4670-b3a1-3a6c30268c24" />
+<img width="700" height="450" alt="White Minimalist Real Estate Agency Email Signature" src="https://github.com/user-attachments/assets/4b2197f5-1e8e-4670-b3a1-3a6c30268c24" />
 </p>
 
 
