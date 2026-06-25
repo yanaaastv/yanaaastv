@@ -38,15 +38,15 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/diana-teves-8b5667369">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-B57EDC?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/yanaxszi">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://img.shields.io/badge/Instagram-B57EDC?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="https://fb.com/diana.teves.75">
-<img src="https://img.icons8.com/color/48/facebook-new.png" width="48"/>
+<img src="https://img.shields.io/badge/Facebook-B57EDC?style=for-the-badge&logoColor=white" />
 </a>
 </p>
 
