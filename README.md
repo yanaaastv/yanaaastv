@@ -21,7 +21,7 @@
 
 <h2 align="center">⋆˚✿˖° About Me °˖✿˚⋆</h2>
 
-<p>
+<p align="center">
 🎓 Graduate of Associate in Computer Technology (2026) <br>
 🌟 Continuing to grow in the field of Information Systems <br>
 🎨 Learning UI/UX Design through Figma <br>
