@@ -52,8 +52,17 @@
 
 <h2 align="center">(⁰▿⁰)◜✧˖° Languages & Tools</h2>
 
+<h2 align="center">(⁰▿⁰)◜✧˖° Languages & Tools</h2>
+
 <p align="center">
-HTML • CSS • JavaScript • PHP • MySQL • Figma • Git • GitHub
+<img src="https://img.shields.io/badge/HTML-B57EDC?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-B57EDC?style=for-the-badge">
+<img src="https://img.shields.io/badge/JavaScript-B57EDC?style=for-the-badge">
+<img src="https://img.shields.io/badge/PHP-B57EDC?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-B57EDC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Figma-B57EDC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-B57EDC?style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-B57EDC?style=for-the-badge">
 </p>
 
 <h2 align="center">(❀´ ˘ `❀) GitHub Trophies</h2>
