@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Diana ⸜(｡˃ ᵕ ˂ )⸝♡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=24&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Aspiring+Project+Manager+📋;UI%2FUX+Design+Learner+🎨;Information+Systems+Student+💻;Designing+with+Purpose+and+Creativity+✨"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=24&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Aspiring+Project+Manager;UI%2FUX+Design+Learner;Information+Systems+Student;Designing+with+Purpose+and+Creativity"/>
 </p>
 
 <p align="center">
@@ -92,10 +92,6 @@
 
 <p align="center">
 ♫⋆｡♪ ₊˚♬ ﾟ.
-</p>
-
-<p align="center">
-✨ Creating with purpose, learning with passion, and growing through every experience ✨
 </p>
 
 <p align="center">
