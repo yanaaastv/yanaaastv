@@ -1,6 +1,6 @@
 <!-- Purple Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=150&section=header&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=100&section=header&animation=twinkling"/>
 </p>
 
 <p align="center">
@@ -96,5 +96,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=100&section=footer"/>
 </p>
