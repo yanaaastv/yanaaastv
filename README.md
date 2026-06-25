@@ -12,8 +12,8 @@
 </p>
 
 
-<p align="center">
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+<p align="center" type=waving&color=B57EDC>
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 </p>
 
 <h2 align="center">⋆˚✿˖° About Me °˖✿˚⋆</h2>
